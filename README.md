@@ -25,22 +25,22 @@ This project is a dynamic To-do application that allows users to create, complet
 
 ## Form Validation Errors
 
-![Validation Errors](./images/preview/todo-app-image-02.png)
+![Validation Errors](./images/preview/todo-app-image-03.png)
 
 ---
 
 ## Successful Form Validation
 
-![Successful Validation](./images/preview/todo-app-image-03.png)
+![Successful Validation](./images/preview/todo-app-image-04.png)
 
 ---
 
 ## Todo List After Adding Tasks
 
-![Todo List After Adding Tasks](./images/preview/todo-app-image-04.png)
+![Todo List After Adding Tasks](./images/preview/todo-app-image-05.png)
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE [https://emanuellewis.github.io/se_project_todo-app/]
+- LINK HERE [https://emanuellewis.github.io/se_project_todo-app/]
